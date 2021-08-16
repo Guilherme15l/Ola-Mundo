@@ -4,3 +4,4 @@
  Repositório criado durante uma aula do Curso em vídeo.
  
  Estou fazendo uma alteração diretamente pelo site!
+ Observando os *códigos* do **markdown**
